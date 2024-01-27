@@ -1,1 +1,2 @@
-special.offer=50% off on all espresso drinks!
+coffeeshop:
+  special-offer: "50% off on all espresso drinks!"
